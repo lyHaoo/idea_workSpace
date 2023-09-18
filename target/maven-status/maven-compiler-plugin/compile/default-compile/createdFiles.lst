@@ -1,0 +1,5 @@
+com\pds\dao\UserMapper.class
+com\pds\controller\UserController.class
+com\pds\biz\UserBiz.class
+com\pds\entity\User.class
+com\pds\biz\UserBizImpl.class
